@@ -1,0 +1,2 @@
+KPD_program.c:43:6:hkpd_init	8	static
+KPD_program.c:58:6:hkpd_getPressedKey	24	static

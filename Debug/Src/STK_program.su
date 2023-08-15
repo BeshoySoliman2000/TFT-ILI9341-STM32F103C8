@@ -1,0 +1,8 @@
+STK_program.c:21:6:MSTK_voidInit	4	static
+STK_program.c:31:6:MSTK_voidSetBusyWait	16	static,ignoring_inline_asm
+STK_program.c:50:6:MSTK_voidSetIntervalSingle	16	static
+STK_program.c:72:6:MSTK_voidSetIntervalPeriodic	16	static
+STK_program.c:89:6:MSTK_voidStopInterval	4	static
+STK_program.c:99:6:MSTK_u32GetElapsedTime	16	static
+STK_program.c:107:6:MSTK_u32GetRemainingTime	16	static
+STK_program.c:116:6:SysTick_Handler	16	static

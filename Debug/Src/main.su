@@ -1,0 +1,4 @@
+main.c:42:5:main	24	static
+main.c:125:6:return_uart1	16	static
+main.c:148:6:timer_CallFuncCalcEq	8	static
+main.c:153:6:EXTI_CallFuncCounterFunc	4	static

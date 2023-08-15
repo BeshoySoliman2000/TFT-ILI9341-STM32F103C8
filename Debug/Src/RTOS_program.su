@@ -1,0 +1,3 @@
+RTOS_program.c:20:6:RTOS_voidInit	8	static
+RTOS_program.c:27:6:RTOS_voidCreateTask	24	static
+RTOS_program.c:48:6:RTOS_voidScheduler	16	static

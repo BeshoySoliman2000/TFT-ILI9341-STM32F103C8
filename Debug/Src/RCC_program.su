@@ -1,0 +1,9 @@
+RCC_program.c:14:6:MRCC_voidInit	8	static
+RCC_program.c:78:6:MRCC_voidPerClock_State	16	static
+RCC_program.c:117:6:MRCC_voidSetPLLMulFactor	16	static
+RCC_program.c:126:6:MRCC_voidSetPLLSource	16	static
+RCC_program.c:150:6:MRCC_voidClkEnable	16	static
+RCC_program.c:166:6:MRCC_voidClkDisable	16	static
+RCC_program.c:182:4:MRCC_u8CheckClockReady	24	static
+RCC_program.c:200:6:MRCC_voidSetClkSource	16	static
+RCC_program.c:219:6:MRCC_voidSetBusesPrescaler	16	static

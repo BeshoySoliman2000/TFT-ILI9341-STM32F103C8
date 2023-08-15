@@ -1,0 +1,6 @@
+OS_program.c:25:6:SOS_voidCreatTask	24	static
+OS_program.c:32:6:Scheduler	16	static
+OS_program.c:47:6:Scheduler_firstDelay	16	static
+OS_program.c:67:6:SOS_voidStart	8	static
+OS_program.c:74:6:SOS_voidSetState	16	static
+OS_program.c:79:6:SOS_voidDeleteTask	16	static

@@ -1,0 +1,4 @@
+ADC_program.c:16:6:MADC_ON	4	static
+ADC_program.c:21:6:MADC_OFF	4	static
+ADC_program.c:26:6:MADC_Init	8	static
+ADC_program.c:34:5:MADC_Read	24	static

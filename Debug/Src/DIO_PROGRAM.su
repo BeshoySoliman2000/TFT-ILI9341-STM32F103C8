@@ -1,0 +1,10 @@
+DIO_PROGRAM.c:15:6:MGPIO_voidSetPinDirection	16	static
+DIO_PROGRAM.c:78:6:MGPIO_voidSetPinValue	16	static
+DIO_PROGRAM.c:129:4:MGPIO_u8GetPinValue	24	static
+DIO_PROGRAM.c:148:6:delay	24	static,ignoring_inline_asm
+DIO_PROGRAM.c:155:6:SEVEN_SEGMENT	16	static
+DIO_PROGRAM.c:470:6:MGPIO_voidSetPortDirection	16	static
+DIO_PROGRAM.c:486:6:MGPIO_voidSetPortValue	16	static
+DIO_PROGRAM.c:501:6:MDIO_voidPingPong	24	static
+DIO_PROGRAM.c:560:6:MDIO_voidSimultaneously	24	static
+DIO_PROGRAM.c:590:6:MDIO_voidComingandGoing	24	static

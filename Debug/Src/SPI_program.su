@@ -1,0 +1,6 @@
+SPI_program.c:24:4:SPI_u8ConfigureCh	24	static
+SPI_program.c:154:4:SPI_transmit	32	static
+SPI_program.c:188:5:SPI_voidSendRecSynch	16	static
+SPI_program.c:204:6:SPI_voidSendRecAsynch	16	static
+SPI_program.c:214:6:SPI1_IRQHandler	16	static
+SPI_program.c:223:6:SPI2_IRQHandler	16	static
